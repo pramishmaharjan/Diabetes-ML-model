@@ -32,7 +32,7 @@ The **Random Forest model** achieved:
 ## 🛠 Installation & Usage  
 
 ```bash
-git clone https://github.com/pramishmaharjan/diabetes-prediction.git
+git clone https://github.com/pramishmaharjan/Diabetes-ML-model.git
 cd diabetes-prediction
 pip install -r requirements.txt
 streamlit run app.py # Make sure to update any necessary paths in app.py before running the app
